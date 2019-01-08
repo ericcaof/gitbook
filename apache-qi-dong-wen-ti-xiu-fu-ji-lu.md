@@ -1,4 +1,8 @@
-# apache 启动问题修复记录
+---
+description: apache 启动问题修复
+---
+
+# apache start error
 
 最近在一台云服务器上更新了一个静态html目录,重启httpd后，总是保持 启动错误
 
